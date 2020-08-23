@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91569436567",
+    "firebase_url": "https://shop-lovers-6b275.firebaseio.com",
+    "project_id": "shop-lovers-6b275",
+    "storage_bucket": "shop-lovers-6b275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91569436567:android:b1ecada070e394683036d2",
+        "android_client_info": {
+          "package_name": "com.example.shop_lovers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91569436567-uh6n5toveshql2uqah4rsgcsjiee89h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_lovers_app",
+            "certificate_hash": "8e2b83b10739774d9584665eed14c0c0567ef058"
+          }
+        },
+        {
+          "client_id": "91569436567-sumg06ivn8c1i8ulj5rr1iak5cgfm2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJ6IpX5SeJOuq0M21WxbuhKmv3zHS5RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91569436567-sumg06ivn8c1i8ulj5rr1iak5cgfm2t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
