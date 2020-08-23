@@ -1,6 +1,6 @@
 # shop_lovers_app
 
-It's a social flutter application that offer the user to share food photos & recipes with his followers.
+It's a social flutter application that offer the user to share shop photos & recipes with his followers.
 
 ## some vidoes
 <!-- record_1 -->
