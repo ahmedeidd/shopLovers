@@ -1,6 +1,6 @@
 # shop_lovers_app
 
-It's a social flutter application that offer the user to share shop photos & recipes with his followers by useing firebase .
+It's a social flutter application that offer the user to share shop photos & recipes with his followers by using firebase real-time database,you can upload posts,search for   other users,like & unlike their posts and receives notifications .
 
 ## some vidoes
 
