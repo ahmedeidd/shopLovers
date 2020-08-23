@@ -4,7 +4,7 @@ It's a social flutter application that offer the user to share shop photos & rec
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_1.mp4"Design")
+![original Design](https://www.youtube.com/watch?v=__YmH3Exfs8"Design")
 
 <!-- record_2 -->
 ![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_2.mp4 "Design")
